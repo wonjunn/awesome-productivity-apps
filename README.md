@@ -19,6 +19,12 @@
 
 ## Note Taking
 
+### 🔥 [Obsidian - Sharpen your thinking](https://obsidian.md/)
+> Obsidian is the private and flexible writing app that adapts to the way you think.
+
+![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/a9cca7b1-d8a1-4aaf-a7e0-63ea12dd923c)
+
+
 ### 🔥 [Craft – The Future of Documents](https://www.craft.do/)
 > Craft is where teams come together to ideate, collaborate and share their best work.
 
