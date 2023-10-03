@@ -17,6 +17,13 @@
 
 ### Akiflow
 
+## Note Taking
+
+### 🔥 [Craft – The Future of Documents](https://www.craft.do/)
+> Craft is where teams come together to ideate, collaborate and share their best work.
+
+![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/eb61a125-78a9-4969-a69b-6219370b0d9a)
+
 ## Email
 
 ### 🔥 [Superhuman | Blazingly fast email for teams and individuals](https://superhuman.com/)
