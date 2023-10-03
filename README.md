@@ -1,7 +1,7 @@
 # Awesome Productivity Apps
 
 ```
-⭐ Best  🔥 Hype  🚀 Rising  👀 Take a look  💯 Classic  👌 Ok  😎 Editor's pick
+⭐ Best  🔥 Hype  🚀 Rising  👀 Take a look  👍 Classic  👌 Ok  😎 Editor's pick
 ```
 
 ## Table of Contents
@@ -18,6 +18,20 @@
 > Discover the apps everyone is docking about. Share your dock and see who else has docked the apps you use. Add your dock1503 docks on Dockhunt. Featured docks.
 
 ### [Infinite Canvas](https://infinitecanvas.tools/)
+
+## ⭐ To Do List
+
+### [Todoist | A To-Do List to Organize Your Work & Life](https://todoist.com/)
+> Trusted by 30 million people and teams. Todoist is the world's favorite task manager and to-do list app. Finally become focused, organized and calm.
+
+![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/0d9f54b0-bae5-4d7b-b674-85e60bd02d1b)
+
+### 👍 😎 [Things - To-Do List for Mac & iOS](https://culturedcode.com/things/)
+> Things is the award-winning personal task manager that helps you plan your day, manage your projects, and make real progress toward your goals.
+
+![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/2d8f7d21-290d-4c95-a3e7-2a39f9a626b5)
+
+
 
 ## Daily Planner
 
