@@ -73,6 +73,12 @@
 
 ![cron-2023-02-28@2x](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/c6ba4a24-4ee2-497f-839b-36d8938c7521)
 
+### 🔥 [Amie - Joyful productivity](https://www.amie.so/)
+> Meet the all-in-one calendar. Schedule time for todos, events, and contacts with joy.
+
+![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/5a446482-3881-4c29-9aeb-383966edd63c)
+
+
 ## Project Management
 
 ### ⭐ [Notion: Your connected workspace for wiki, docs & projects](https://www.notion.so/)
