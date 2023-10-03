@@ -39,7 +39,7 @@
 
 ![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/8ae5697e-e711-43f8-b82c-ae6532731ccb)
 
-### Linear – A better way to build products 🔥
+### [Linear – A better way to build products](https://linear.app/) 🔥
 > Linear streamlines issues, sprints, and product roadmaps. It's the new standard for modern software development.
 
 ![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/c4f65ccd-94a2-4a50-933e-11e334ecf9fc)
