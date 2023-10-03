@@ -11,11 +11,31 @@
 ### [Dockhunt](https://www.dockhunt.com/)
 > Discover the apps everyone is docking about. Share your dock and see who else has docked the apps you use. Add your dock1503 docks on Dockhunt. Featured docks.
 
+### [Infinite Canvas](https://infinitecanvas.tools/)
+
 ## Daily Planner
+
+### Motion
+
+### 👀 [Ellie - A better day planner](https://ellieplanner.com/)
+> Ellie helps you organize your thoughts and plan your day in a beautiful and simple website and iOS app.
+
+![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/515ebae1-1f98-4f12-921b-0b77e2d2e53d)
+
 
 ### Sunsama
 
 ### Akiflow
+
+## Infinite Canvas
+
+### 👀 [Muse App](https://museapp.com/)
+> Muse is a canvas for thinking that helps you get clarity on things that matter. Think in private or collaborate with others.
+
+![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/8e625b00-5814-48e5-b1d9-7704c1535fcb)
+
+
+### Heptabase
 
 ## Note Taking
 
