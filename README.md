@@ -4,6 +4,8 @@
 ⭐ Best  🔥 Hype  🚀 Rising  👀 Take a look  💯 Classic  👌 Ok  😎 Editor's pick
 ```
 
+## Table of Contents
+
 ## Useful Links
 
 ### [Tool Finder: Productivity Tools Reviews, Guides & News](https://toolfinder.co/)
