@@ -17,6 +17,14 @@
 
 ### Akiflow
 
+## Email
+
+### 🔥 [Superhuman | Blazingly fast email for teams and individuals](https://superhuman.com/)
+> The fastest email experience ever made. Blazingly fast, delightful, and stress free. Get 4 hours back every single week.
+
+![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/464f6697-b97d-4e96-a50a-e5f26c169f2e)
+
+
 ## Web Browser
 
 ### 🔥 [Arc from The Browser Company](https://arc.net/)
