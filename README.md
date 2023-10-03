@@ -20,14 +20,17 @@
 ## Web Browser
 
 
-**[Arc from The Browser Company](https://arc.net/)**
-🔥
+**[Arc from The Browser Company](https://arc.net/)** 🔥
 > Experience a calmer, more personal internet in this browser designed for you. Let go of the clicks, the clutter, the distractions with the Arc browser.
 
-[Arc Browser](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/8466767d-5640-468c-9b80-ac753d1ae20b)
+![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/d3ea3fe2-e225-4fc1-a9c2-f0332bac1edb)
 
 ## Calendar
 
-**Cron**
+**[Cron Calendar]** 🔥
+> Cron is the next-generation calendar for professionals and teams.
+
+![cron-2023-02-28@2x](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/c6ba4a24-4ee2-497f-839b-36d8938c7521)
+
 
 
