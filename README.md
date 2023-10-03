@@ -96,7 +96,7 @@
 ### 🔥 [Amie - Joyful productivity](https://www.amie.so/)
 > Meet the all-in-one calendar. Schedule time for todos, events, and contacts with joy.
 
-![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/5a446482-3881-4c29-9aeb-383966edd63c)
+![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/27bcbb8d-9c49-47e0-aabd-29822c2ba473)
 
 
 ## Project Management
