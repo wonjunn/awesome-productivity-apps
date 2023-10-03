@@ -19,8 +19,9 @@
 
 ## Web Browser
 
-### Arc
+
 **[Arc from The Browser Company](https://arc.net/)**
+🔥
 > Experience a calmer, more personal internet in this browser designed for you. Let go of the clicks, the clutter, the distractions with the Arc browser.
 
 [Arc Browser](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/8466767d-5640-468c-9b80-ac753d1ae20b)
