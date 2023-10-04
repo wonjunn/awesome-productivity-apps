@@ -74,6 +74,11 @@
 
 ![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/eb61a125-78a9-4969-a69b-6219370b0d9a)
 
+### [Mem.ai](https://mem.ai/)
+> Ask questions and generate content based on the notes you take inside Mem, the ultimate knowledge assistant.
+
+![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/ca427149-5355-46a3-b145-6ba7b22551b7)
+
 ## Email
 
 ### 🔥 [Superhuman | Blazingly fast email for teams and individuals](https://superhuman.com/)
