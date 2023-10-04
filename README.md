@@ -115,4 +115,11 @@
 
 ![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/c4f65ccd-94a2-4a50-933e-11e334ecf9fc)
 
+## Others
+
+### 🔥 [Raycast](https://www.raycast.com/)
+> Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
+
+![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/6e32422a-5f1e-4e42-b074-0cf8102fc381)
+
 
