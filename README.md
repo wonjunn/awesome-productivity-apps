@@ -39,7 +39,11 @@
 
 ## Daily Planner
 
-### Motion
+### 🔥 [Motion | Manage calendars, meetings, projects &amp; tasks in one app](https://www.usemotion.com/)
+> Automatically prioritize tasks, schedule meetings, and resolve calendar conflicts. Used by over 10k CEOs and professionals to improve focus, get more done, and streamline workday.
+
+![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/446a590b-9749-4003-a434-7a15fe026286)
+
 
 ### 👀 [Ellie - A better day planner](https://ellieplanner.com/)
 > Ellie helps you organize your thoughts and plan your day in a beautiful and simple website and iOS app.
