@@ -19,9 +19,9 @@
 
 ### [Infinite Canvas](https://infinitecanvas.tools/)
 
-## ⭐ To Do List
+## To Do List
 
-### [Todoist | A To-Do List to Organize Your Work & Life](https://todoist.com/)
+### ⭐ [Todoist | A To-Do List to Organize Your Work & Life](https://todoist.com/)
 > Trusted by 30 million people and teams. Todoist is the world's favorite task manager and to-do list app. Finally become focused, organized and calm.
 
 ![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/0d9f54b0-bae5-4d7b-b674-85e60bd02d1b)
@@ -31,6 +31,10 @@
 
 ![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/2d8f7d21-290d-4c95-a3e7-2a39f9a626b5)
 
+### 🚀 [Twos: Write *Things* Down | Twos App](https://www.twosapp.com/home)
+> Clear your mind, stay organized, and get things done. Lists, notes, tasks, reminders, calendar events, memories - save time and organize your life with Twos. A quick, easy, and accessible place to write, remember, and share things.
+
+![image](https://github.com/wonjunn/awesome-productivity-apps/assets/60861873/90a4f952-ac7a-463e-af77-1f62773c9923)
 
 
 ## Daily Planner
